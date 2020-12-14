@@ -45,11 +45,10 @@ function counterMaker() {
 
 const counter1 = counterMaker();
 
-// counter2 code
 let count = 0;
 
 function counter2() {
-  // return count++;
+  return count++;
 }
 
 
