@@ -49,7 +49,7 @@ const counter1 = counterMaker();
 let count = 0;
 
 function counter2() {
-  return count++;
+  // return count++;
 }
 
 
